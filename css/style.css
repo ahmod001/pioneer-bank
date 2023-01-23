@@ -1,0 +1,47 @@
+body {
+    padding: 100px;
+}
+/* Login Page */
+
+.Login {
+    padding: 60px;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px ;
+    display: block;
+}
+
+.account{
+    display: none;
+}
+
+/* Transaction Page  */
+
+.status {
+    margin: 0 20px;
+    padding: 20px;
+    color: white;
+    border-radius: 10px ;
+}
+ .Deposit {
+    background-color: slateblue;
+
+}
+.Withdraw {
+    background-color: lightsalmon;
+
+}
+.Balance {
+    background-color: orange;
+   
+}
+/* Activity */
+
+.Activity {
+    margin-top: 8%;
+}
+
+.interation {
+    padding: 60px;
+    box-shadow: 0px 5px 10px lightgray;
+    border-radius: 10px ;
+}
