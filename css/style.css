@@ -22,6 +22,10 @@ body {
     color: white;
     border-radius: 10px ;
 }
+.col-md-4:hover {
+    transition: transform .3s 0s;
+    transform: scale(1.05);
+}
  .Deposit {
     background-color: slateblue;
 
